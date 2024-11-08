@@ -11,7 +11,6 @@ public class FibonacciSeries {
         System.out.print("Enter the number of terms for Fibonacci series: ");
         int n = scanner.nextInt();
 
-        // Print the Fibonacci series
         System.out.println("Fibonacci Series up to " + n + " terms:");
 
         // First two terms are fixed
