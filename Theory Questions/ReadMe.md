@@ -1,6 +1,6 @@
 # Java Interview Questions & Answers
 
-This README provides answers to common Java interview questions, which can help in understanding core Java concepts.
+Here are 25 commonly asked Java programming interview questions that are relevant for Quality Assurance (QA) roles, which can help in understanding core Java concepts.
 
 ---
 
