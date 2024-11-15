@@ -6,7 +6,7 @@ public class SecondLargestNumber
 {
 	public static void main(String[] args) {
 		
-		int[] arr = {1, 6, 3, 4, 5, 2};
+	int[] arr = {1, 6, 3, 4, 5, 2};
 
         System.out.println("Original Array:");
         printArray(arr);
